@@ -1,0 +1,100 @@
+2022-02-01 22:41:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:41:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:41:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:41:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:41:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:41:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:41:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:41:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:41:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:41:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:41:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:41:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:41:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:41:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:41:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:41:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:41:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:41:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:43:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:44:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:44:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:44:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "ACTIVITY" nicht gefunden
+Table "ACTIVITY" not found; SQL statement:
+select activity0_.id as id1_0_, activity0_.duration as duration2_0_, activity0_.end as end3_0_, activity0_.start as start4_0_ from activity activity0_ [42102-200]
+2022-02-01 22:45:12 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax Fehler in SQL Befehl "DROP TBL_ACTIVITIES[*]"; erwartet "TABLE, INDEX, USER, SEQUENCE, CONSTANT, TRIGGER, VIEW, ROLE, ALIAS, SCHEMA, ALL, DOMAIN, TYPE, DATATYPE, AGGREGATE, SYNONYM"
+Syntax error in SQL statement "DROP TBL_ACTIVITIES[*]"; expected "TABLE, INDEX, USER, SEQUENCE, CONSTANT, TRIGGER, VIEW, ROLE, ALIAS, SCHEMA, ALL, DOMAIN, TYPE, DATATYPE, AGGREGATE, SYNONYM"; SQL statement:
+DROP TBL_ACTIVITIES [42001-200]
+2022-02-01 22:45:23 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax Fehler in SQL Befehl "DROP TBL_ACTIVITIES[*] *"; erwartet "TABLE, INDEX, USER, SEQUENCE, CONSTANT, TRIGGER, VIEW, ROLE, ALIAS, SCHEMA, ALL, DOMAIN, TYPE, DATATYPE, AGGREGATE, SYNONYM"
+Syntax error in SQL statement "DROP TBL_ACTIVITIES[*] *"; expected "TABLE, INDEX, USER, SEQUENCE, CONSTANT, TRIGGER, VIEW, ROLE, ALIAS, SCHEMA, ALL, DOMAIN, TYPE, DATATYPE, AGGREGATE, SYNONYM"; SQL statement:
+DROP TBL_ACTIVITIES * [42001-200]
+2022-02-01 22:45:44 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "TBL_ACTIVITIES" nicht gefunden
+Table "TBL_ACTIVITIES" not found; SQL statement:
+DROP table TBL_ACTIVITIES [42102-200]
