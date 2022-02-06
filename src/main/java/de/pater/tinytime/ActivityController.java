@@ -6,6 +6,8 @@ import java.util.Date;
 import java.util.List;
 
 import org.hibernate.internal.util.compare.CalendarComparator;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -30,11 +32,13 @@ public class ActivityController {
 			return repository.findAll();
 		}
 	
-	@PostMapping("/activity")
-	Activity newActivity(@RequestBody Activity newActivity) {
-		return repository.save(newActivity);
+	@CrossOrigin(origins = "http://127.0.0.1:5500")
+	@PostMapping(value = "/activity", consumes = "application/json")
+	public ResponseEntity<Activity> createNewActivity(@RequestBody Activity entity){
+		return new ResponseEntity<Activity>(repository.save(entity), HttpStatus.CREATED);
 	}
 	
+
 	
 	@GetMapping("/activity/{id}")
 	Activity one(@PathVariable Long id) {
